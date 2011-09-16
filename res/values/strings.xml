@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, LightsOutActivity!</string>
+    <string name="app_name">LightsOut</string>
+    <string name="titlePrefs">Prefs</string>
+    <string name="titleInfo">Info</string>
+    <string name="gameInfo">This is a page for game info</string>
+    
+</resources>
